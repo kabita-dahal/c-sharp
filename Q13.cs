@@ -8,7 +8,7 @@ namespace KabitaLabwork
 {
     internal class Q13
     {
-        static void Main()
+        /*static void Main()
         {
             // Define a string array
             string[] words = { "Hi", "I", "am", "Kabita." };
@@ -19,6 +19,6 @@ namespace KabitaLabwork
             // Output the result
             Console.WriteLine("The concatenated string is:");
             Console.WriteLine(result);
-        }
+        }*/
     }
 }
